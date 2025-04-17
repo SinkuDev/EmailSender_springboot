@@ -57,17 +57,13 @@ Spring Boot
 
 Data Structure & Algorithms | 
 
-Hibernate | 
+Java
 
-SQL
 
 Html
 
 CSS
 
-Python
-
-C++
 
 
 
@@ -86,5 +82,5 @@ Install Springboot framework
 
 **Client:** Springboot Starter,localhost:8080
 
-**Server:** Toocat
+**Server:** Tomcat
 
